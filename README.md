@@ -161,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/ggroup3/Network-Traffic-Monitor-Real-time-)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
